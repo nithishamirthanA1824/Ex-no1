@@ -240,9 +240,8 @@ END
 <img width="1600" height="1200" alt="WhatsApp Image 2026-05-13 at 11 21 28 AM" src="https://github.com/user-attachments/assets/264e3953-1c62-4517-a24e-2a7d0a1225c7" />
 
 
----
-## OUTPUT FROM MASM SOFTWARE
-<img width="696" height="281" alt="Screenshot 2026-05-13 112628" src="https://github.com/user-attachments/assets/fba2fbd0-ed99-4f96-8311-5cd73b82cb39" />
+<img width="696" height="281" alt="Screenshot 2026-05-13 112628" src="https://github.com/user-attachments/assets/db0c9d51-5819-40bf-b6fd-14f9f862a934" />
+
 
 
 
