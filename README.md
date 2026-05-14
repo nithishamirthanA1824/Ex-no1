@@ -66,7 +66,7 @@ END
  
 #### Manual Calculations
 
-<img width="1000" height="800" alt="WhatsApp Image 2026-05-13 at 11 21 29 AM" src="https://github.com/user-attachments/assets/c9d039f7-268c-4f05-811f-1fdbbaed70f1" />
+<img width="300" height="200" alt="WhatsApp Image 2026-05-13 at 11 21 29 AM" src="https://github.com/user-attachments/assets/c9d039f7-268c-4f05-811f-1fdbbaed70f1" />
 
 
 ---
@@ -125,7 +125,7 @@ END
 
 #### Manual Calculations
 
-<img width="1000" height="800" alt="WhatsApp Image 2026-05-13 at 11 21 28 AM (2)" src="https://github.com/user-attachments/assets/88cb551b-0417-425a-8b5d-38475b4e3ec1" />
+<img width="300" height="200" alt="WhatsApp Image 2026-05-13 at 11 21 28 AM (2)" src="https://github.com/user-attachments/assets/88cb551b-0417-425a-8b5d-38475b4e3ec1" />
 
 
 <img width="400" height="200" alt="Screenshot 2026-05-13 112605" src="https://github.com/user-attachments/assets/f3d4f25d-2694-40d1-ab47-6877c3e18ca3" />
@@ -146,7 +146,7 @@ END
 
 ##FLOWCHART
 
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/88be88ff-2896-4a88-b73d-84ccffd2fcf9" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/88be88ff-2896-4a88-b73d-84ccffd2fcf9" />
 
 
 
@@ -183,7 +183,7 @@ END
 
 
 #### Manual Calculation
-<img width="1000" height="600" alt="WhatsApp Image 2026-05-13 at 11 21 28 AM (1)" src="https://github.com/user-attachments/assets/ac659387-29da-4178-a5a4-68dd48f3c9e9" />
+<img width="300" height="200" alt="WhatsApp Image 2026-05-13 at 11 21 28 AM (1)" src="https://github.com/user-attachments/assets/ac659387-29da-4178-a5a4-68dd48f3c9e9" />
 s
 
 (Add your calculation here)
@@ -202,7 +202,7 @@ s
 3. Store result.
 
    ## FLOWCHART
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/25b4a483-0d42-494b-8639-1af3ea17191b" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/25b4a483-0d42-494b-8639-1af3ea17191b" />
 
 
 #### Program
@@ -237,7 +237,7 @@ END
  -----------------------------------------------------     
 
 
-<img width="500" height="450" alt="WhatsApp Image 2026-05-13 at 11 21 28 AM" src="https://github.com/user-attachments/assets/264e3953-1c62-4517-a24e-2a7d0a1225c7" />
+<img width="300" height="200" alt="WhatsApp Image 2026-05-13 at 11 21 28 AM" src="https://github.com/user-attachments/assets/264e3953-1c62-4517-a24e-2a7d0a1225c7" />
 
 
 <img width="350" height="150" alt="Screenshot 2026-05-13 112628" src="https://github.com/user-attachments/assets/db0c9d51-5819-40bf-b6fd-14f9f862a934" />
